@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2015
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Amoebs Run.CSharp.Plugins", "Amoebs Run.CSharp.Plugins.csproj", "{CBE8F4AF-7E80-74EF-12D7-304F3A118AF7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Amoebs Run.CSharp.Editor", "Amoebs Run.CSharp.Editor.csproj", "{3653DC25-203C-072D-52D2-9F702A232954}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CBE8F4AF-7E80-74EF-12D7-304F3A118AF7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CBE8F4AF-7E80-74EF-12D7-304F3A118AF7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CBE8F4AF-7E80-74EF-12D7-304F3A118AF7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CBE8F4AF-7E80-74EF-12D7-304F3A118AF7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3653DC25-203C-072D-52D2-9F702A232954}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3653DC25-203C-072D-52D2-9F702A232954}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3653DC25-203C-072D-52D2-9F702A232954}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3653DC25-203C-072D-52D2-9F702A232954}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
